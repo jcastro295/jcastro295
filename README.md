@@ -1,4 +1,4 @@
-## Hi there 👋, I am Jhon Castro, Bachelor in Electrical Engineering. MSc and PhD candidate at the University of Delaware.
+## Hi there 👋, I am Jhon Castro, B.S. in Electrical Engineering, M.Sc. in Electrical and computer engineering, and Ph.D. candidate at the University of Delaware.
 
 - 🔭 I’m currently working on machine learning applied to ocean acoustics
 - 🌱 I’m currently learning R
